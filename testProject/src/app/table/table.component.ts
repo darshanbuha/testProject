@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./table.component.css']
 })
 export class TableComponent {
+  constructor(){}
+  ngOnInit(): void {}
 
 }
